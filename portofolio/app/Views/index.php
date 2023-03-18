@@ -89,7 +89,7 @@ https://www.tooplate.com/view/2115-marvel
                         <p>As a Full-Stack Developer with 4 years of experience, I have gained extensive experience in developing various web applications using different frameworks such as Laravel, CodeIgniter, WordPress, and ExpressJS. Additionally, I possess experience in using various styling tools like Tailwind and Bootstrap. In my current role, I am responsible for designing system flows, creating database relations, developing APIs, and presenting to superiors before and after project completion.</p>
 
                         <div class="custom-btn-group mt-4">
-                            <a href="#" class="btn mr-lg-2 custom-btn"><i class='uil uil-file-alt'></i> Download Resume</a>
+                            <a href="<?= base_url(); ?>images/RAHMAN NEW CV.pdf" target="_blank" class="btn mr-lg-2 custom-btn"><i class='uil uil-file-alt'></i> Download Resume</a>
                             <a href="#contact" class="btn custom-btn custom-btn-bg custom-btn-link">Get a free quote</a>
                         </div>
                     </div>
