@@ -1,0 +1,35 @@
+[18-Mar-2023 14:02:57 UTC] PHP Warning:  require(/home/koalajah/portofolio.koalajahat.my.id/..portofolio/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/koalajah/portofolio.koalajahat.my.id/index.php on line 32
+[18-Mar-2023 14:02:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/koalajah/portofolio.koalajahat.my.id/..portofolio/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/koalajah/portofolio.koalajahat.my.id/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/koalajah/portofolio.koalajahat.my.id/index.php on line 32
+[18-Mar-2023 14:02:58 UTC] PHP Warning:  require(/home/koalajah/portofolio.koalajahat.my.id/..portofolio/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/koalajah/portofolio.koalajahat.my.id/index.php on line 32
+[18-Mar-2023 14:02:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/koalajah/portofolio.koalajahat.my.id/..portofolio/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/koalajah/portofolio.koalajahat.my.id/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/koalajah/portofolio.koalajahat.my.id/index.php on line 32
+[18-Mar-2023 14:02:58 UTC] PHP Warning:  require(/home/koalajah/portofolio.koalajahat.my.id/..portofolio/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/koalajah/portofolio.koalajahat.my.id/index.php on line 32
+[18-Mar-2023 14:02:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/koalajah/portofolio.koalajahat.my.id/..portofolio/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/koalajah/portofolio.koalajahat.my.id/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/koalajah/portofolio.koalajahat.my.id/index.php on line 32
+[18-Mar-2023 14:02:59 UTC] PHP Warning:  require(/home/koalajah/portofolio.koalajahat.my.id/..portofolio/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/koalajah/portofolio.koalajahat.my.id/index.php on line 32
+[18-Mar-2023 14:02:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/koalajah/portofolio.koalajahat.my.id/..portofolio/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/koalajah/portofolio.koalajahat.my.id/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/koalajah/portofolio.koalajahat.my.id/index.php on line 32
+[18-Mar-2023 14:02:59 UTC] PHP Warning:  require(/home/koalajah/portofolio.koalajahat.my.id/..portofolio/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/koalajah/portofolio.koalajahat.my.id/index.php on line 32
+[18-Mar-2023 14:02:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/koalajah/portofolio.koalajahat.my.id/..portofolio/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/koalajah/portofolio.koalajahat.my.id/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/koalajah/portofolio.koalajahat.my.id/index.php on line 32
+[18-Mar-2023 14:03:01 UTC] PHP Warning:  require(/home/koalajah/portofolio.koalajahat.my.id/..portofolio/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/koalajah/portofolio.koalajahat.my.id/index.php on line 32
+[18-Mar-2023 14:03:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/koalajah/portofolio.koalajahat.my.id/..portofolio/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/koalajah/portofolio.koalajahat.my.id/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/koalajah/portofolio.koalajahat.my.id/index.php on line 32
+[18-Mar-2023 14:03:05 UTC] PHP Warning:  require(/home/koalajah/portofolio.koalajahat.my.id/..portofolio/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/koalajah/portofolio.koalajahat.my.id/index.php on line 32
+[18-Mar-2023 14:03:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/koalajah/portofolio.koalajahat.my.id/..portofolio/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/koalajah/portofolio.koalajahat.my.id/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/koalajah/portofolio.koalajahat.my.id/index.php on line 32
